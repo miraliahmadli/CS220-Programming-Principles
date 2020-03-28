@@ -2110,7 +2110,7 @@
       },
       "CS220/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "FSharp.Core": "4.7.0"
         },

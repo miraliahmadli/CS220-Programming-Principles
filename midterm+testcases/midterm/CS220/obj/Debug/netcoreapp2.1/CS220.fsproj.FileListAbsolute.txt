@@ -18,3 +18,14 @@ C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220\obj\
 C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220\obj\Debug\netcoreapp2.1\CS220.AssemblyInfo.fs
 C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220\obj\Debug\netcoreapp2.1\CS220.dll
 C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220\obj\Debug\netcoreapp2.1\CS220.pdb
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\bin\Debug\netcoreapp2.1\CS220.deps.json
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\bin\Debug\netcoreapp2.1\CS220.runtimeconfig.json
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\bin\Debug\netcoreapp2.1\CS220.runtimeconfig.dev.json
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\bin\Debug\netcoreapp2.1\CS220.dll
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\bin\Debug\netcoreapp2.1\CS220.pdb
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.fsprojAssemblyReference.cache
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.AssemblyInfoInputs.cache
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.AssemblyInfo.fs
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.dll
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.pdb
+C:\Users\miral\Desktop\cs220HW\midterm+testcases\midterm\CS220\obj\Debug\netcoreapp2.1\CS220.genruntimeconfig.cache

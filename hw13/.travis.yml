@@ -1,0 +1,9 @@
+language: csharp
+mono: none
+sudo: required
+dist: xenial
+dotnet: 2.2
+solution: HW13.sln
+script:
+    - dotnet build
+    - dotnet test

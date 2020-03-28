@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WebForms.fs" />
+    <Compile Include="UserID.fs" />
+    <Compile Include="Password.fs" />
+    <Compile Include="UserName.fs" />
+    <Compile Include="EMail.fs" />
+    <Compile Include="UserDB.fs" />
+    <Compile Include="WebServer.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

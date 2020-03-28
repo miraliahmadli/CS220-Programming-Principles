@@ -1,0 +1,6 @@
+language: csharp
+mono: none
+dotnet: 2.1.502
+solution: HW1.sln
+script:
+    - dotnet test

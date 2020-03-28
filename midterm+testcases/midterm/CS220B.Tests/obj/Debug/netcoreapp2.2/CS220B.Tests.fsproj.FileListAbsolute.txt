@@ -1,0 +1,16 @@
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220B.Tests.deps.json
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220B.Tests.runtimeconfig.json
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220B.Tests.runtimeconfig.dev.json
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220B.Tests.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220B.Tests.pdb
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\bin\Debug\netcoreapp2.2\CS220.pdb
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.fsprojAssemblyReference.cache
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.AssemblyInfoInputs.cache
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.AssemblyInfo.fs
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.fsproj.CopyComplete
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.dll
+C:\Users\Mirali Ahmadli\Desktop\cs220HW\midterm\midterm-miraliahmadli\CS220B.Tests\obj\Debug\netcoreapp2.2\CS220B.Tests.pdb

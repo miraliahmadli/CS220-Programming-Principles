@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <IsTestProject>false</IsTestProject>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Position.fsi" />
+    <Compile Include="Position.fs" />
+    <Compile Include="Mole.fsi" />
+    <Compile Include="Mole.fs" />
+    <Compile Include="Mallet.fsi" />
+    <Compile Include="Mallet.fs" />
+    <Compile Include="Score.fsi" />
+    <Compile Include="Score.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

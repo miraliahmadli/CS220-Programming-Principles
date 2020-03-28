@@ -16,4 +16,11 @@ Structure of repository:
 ├── etc...
 ```
 
+For testing your work, run the following commands inside homework directroy (hwXX):
+
+```
+dotnet build  
+dotnet test  
+```
+
 For each homework, homework descriptions are given in the hwXX.pdf file.
